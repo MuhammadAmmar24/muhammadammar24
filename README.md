@@ -1,70 +1,67 @@
-👋 Hi, I'm [Your Name]
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Blockchain+Enthusiast;Cloud+Native+Developer" alt="Typing SVG" />
-</div>
-🛠️ Tech Stack
-Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-</p>
-Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
-Backend & Cloud
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="kafka" width="40" height="40"/>
-</p>
-AI & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytorch/pytorch.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tensorflow/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/langchain/langchain.svg" alt="langchain" width="40" height="40"/>
-</p>
-Testing & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pytest/pytest.svg" alt="pytest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/postman/postman.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/git/git.svg" alt="git" width="40" height="40"/>
-</p>
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-🌟 Featured Projects
+# 👋 Welcome to My GitHub Profile!
 
-🛍️ Online Mart API - Event-Driven Microservices Architecture using FastAPI, Kafka, and PostgreSQL
-💰 BenefitMine - Crypto Platform Frontend built with Next.js and Tailwind CSS
-📊 Digifolio - Crypto Token Landing Page
-📦 Inventory Management System - Built with C++
+🎯 **Mission:** To design and implement cutting-edge cloud-native, event-driven, and AI-powered solutions.
 
-🎓 Certifications & Learning
+---
 
-AI For Everyone
-Introduction to Generative AI
-Python for Everybody Specialization
-Blockchain Specialization
-TypeScript Tutorial
+## 🛠️ **Technologies & Skills**
 
-📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-</p>
+### 🚀 **Core Expertise**
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FFD700?style=flat-square&logo=ai&logoColor=white)
+![Cloud-Native Architecture](https://img.shields.io/badge/Cloud--Native%20Architecture-2388FF?style=flat-square&logo=kubernetes&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF5722?style=flat-square&logo=openai&logoColor=white)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+### 🖥️ **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-4CAF50?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-008080?style=flat-square&logo=protobuf&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### 🌐 **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure Container Apps](https://img.shields.io/badge/Azure%20Container%20Apps-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kong API Gateway](https://img.shields.io/badge/Kong%20API%20Gateway-0087DA?style=flat-square&logo=kong&logoColor=white)
+
+### 📊 **Data Science & Machine Learning**
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=pytorch&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FFD700?style=flat-square&logo=dataiku&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-0055FF?style=flat-square&logo=chain&logoColor=white)
+
+---
+
+## 🌟 **Highlighted Projects**
+- **Online Mart API**  
+  Event-Driven Microservices Architecture with Kafka, FastAPI, and Docker.  
+  ![Event Driven](https://img.shields.io/badge/Event--Driven-FF5722?style=flat-square&logo=eventbrite&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+  ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-008080?style=flat-square&logo=protobuf&logoColor=white)
+
+- **BenefitMine Crypto Platform Frontend**  
+  Responsive web design with Next.js and Tailwind CSS.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- **Digifolio Crypto Token Landing Page**  
+  Blockchain-based landing page with React.js and Solidity.  
+  ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white)  
+  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+## 📫 **Connect with Me**
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+🙌 **Let's build the future together!**
