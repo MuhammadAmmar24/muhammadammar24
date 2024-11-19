@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi there 👋 I'm Muhammad Ammar Masood
 
 ### Agentic AI Engineer | Building Cloud-Native, AI-Driven Solutions 
 ---
@@ -34,8 +34,8 @@
 ---
 
 ## 📫 **Connect with Me**
-- **Email:** (muhammadammar2492@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/muhammadammar24)
+- **Email:** muhammadammar2492@gmail.com
+- **LinkedIn:** [linkedin.com/in/muhammadammar24](https://linkedin.com/in/muhammadammar24)
 
 ---
 
